@@ -1,0 +1,50 @@
+name: flutter_template
+description: A new Flutter project.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  bot_toast: ^4.0.2
+  cupertino_icons: ^1.0.5
+  dio: ^4.0.6
+  rxdart: ^0.27.4
+  shared_preferences: ^2.0.15
+  firebase_core: ^1.19.1
+  firebase_crashlytics: ^2.8.4
+  url_strategy: ^0.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  generate: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins_bold.ttf
+          weight: 700
+        - asset: assets/fonts/poppins_medium.ttf
+          weight: 500
+        - asset: assets/fonts/poppins_regular.ttf
+          weight: 400
+        - asset: assets/fonts/poppins_semi_bold.ttf
+          weight: 600

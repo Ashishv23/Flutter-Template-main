@@ -1,0 +1,351 @@
+{
+  "appTitle": "flutter_template",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "key_enter_password": "Enter password",
+    "@key_enter_password": {
+        "type": "text",
+        "source_text": "key_enter_password"
+    },
+    "key_password": "Password",
+    "@key_password": {
+        "type": "text",
+        "source_text": "key_password"
+    },
+    "key_must_be_at_least_6_characters": "Must be at least 6 characters",
+    "@key_must_be_at_least_6_characters": {
+        "type": "text",
+        "source_text": "key_must_be_at_least_6_characters"
+    },
+    "key_enter_email_id": "Enter Email ID",
+    "@key_enter_email_id": {
+        "type": "text",
+        "source_text": "key_enter_email_id"
+    },
+    "key_email_id": "Email ID",
+    "@key_email_id": {
+        "type": "text",
+        "source_text": "key_email_id"
+    },
+    "key_please_enter_valid_email": "Please enter valid email",
+    "@key_please_enter_valid_email": {
+        "type": "text",
+        "source_text": "key_please_enter_valid_email"
+    },
+    "key_title_login": "Login",
+    "@key_title_login": {
+        "type": "text",
+        "source_text": "key_title_login"
+    },
+    "key_title_next_screen": "Next Screen",
+    "@key_title_next_screen": {
+        "type": "text",
+        "source_text": "key_title_next_screen"
+    },
+    "key_start_date": "Start Date",
+    "@key_start_date": {
+        "type": "text",
+        "source_text": "key_start_date"
+    },
+    "key_end_date": "End Date",
+    "@key_end_date": {
+        "type": "text",
+        "source_text": "key_end_date"
+    },
+    "key_search": "Search",
+    "@key_search": {
+        "type": "text",
+        "source_text": "key_search"
+    },
+    "key_clear": "Clear",
+    "@key_clear": {
+        "type": "text",
+        "source_text": "key_clear"
+    },
+    "key_sign_in": "SIGN IN",
+    "@key_sign_in": {
+        "type": "text",
+        "source_text": "key_sign_in"
+    },
+    "key_title_home": "Home",
+    "@key_title_home": {
+        "type": "text",
+        "source_text": "key_title_home"
+    },
+    "key_title_forgot_password": "Forgot Password",
+    "@key_title_forgot_password": {
+        "type": "text",
+        "source_text": "key_title_forgot_password"
+    },
+    "forgot_password": "Forgot Password",
+    "@forgot_password": {
+        "type": "text",
+        "source_text": "forgot_password"
+    },
+    "email": "Email",
+    "@email": {
+        "type": "text",
+        "source_text": "email"
+    },
+    "please_wait": "Please Wait...",
+    "@please_wait": {
+        "type": "text",
+        "source_text": "please_wait"
+    },
+    "commonListAllItems": "Get list of record successfully.",
+    "@commonListAllItems": {
+        "type": "text",
+        "source_text": "commonListAllItems"
+    },
+    "commonListFilterItems": "Get filter list of the records is successful",
+    "@commonListFilterItems": {
+        "type": "text",
+        "source_text": "commonListFilterItems "
+    },
+    "commonGetItem": "Get individual record is successful",
+    "@commonGetItem": {
+        "type": "text",
+        "source_text": "COMMON_GET_ITEM"
+    },
+    "commonCreateItem": "Create new record is successful.",
+    "@commonCreateItem": {
+        "type": "text",
+        "source_text": "COMMON_CREATE_ITEM"
+    },
+    "commonUpdateItem": "Update the existing record is successful.",
+    "@commonUpdateItem": {
+        "type": "text",
+        "source_text": "commonUpdateItem"
+    },
+    "commonDeleteItem": "Delete record is successful.",
+    "@commonDeleteItem": {
+        "type": "text",
+        "source_text": "commonDeleteItem"
+    },
+    "commonGetItemNotfound": "Requested record is not found",
+    "@commonGetItemNotfound": {
+        "type": "text",
+        "source_text": "commonGetItemNotfound"
+    },
+    "commonUpdateItemNotfound": "Update resulted in record not found.",
+    "@commonUpdateItemNotfound": {
+        "type": "text",
+        "source_text": "commonUpdateItemNotfound"
+    },
+    "commonDeleteItemNotfound": "Delete resulted in record not found.",
+    "@commonDeleteItemNotfound": {
+        "type": "text",
+        "source_text": "commonDeleteItemNotfound"
+    },
+    "commonListException": "Get record failed because of an exception.",
+    "@commonListException": {
+        "type": "text",
+        "source_text": "commonListException"
+    },
+    "commonGetException": "Get record failed because of an exception.",
+    "@commonGetException": {
+        "type": "text",
+        "source_text": "commonGetException"
+    },
+    "commonCreateException": "Create record failed because of an exception",
+    "@commonCreateException": {
+        "type": "text",
+        "source_text": "commonCreateException"
+    },
+    "commonPutException": "Update record failed because of an exception.",
+    "@commonPutException": {
+        "type": "text",
+        "source_text": "commonPutException"
+    },
+    "commonDeleteException": "DELETE record failed because of an exception.",
+    "@commonDeleteException": {
+        "type": "text",
+        "source_text": "commonDeleteException"
+    },
+    "commonPostException": "Post record failed because of an exception.",
+    "@commonPostException": {
+        "type": "text",
+        "source_text": "commonPostException"
+    },
+    "userLogin": "User Login successful.",
+    "@userLogin": {
+        "type": "text",
+        "source_text": "userLogin"
+    },
+    "userRegister": "Register new User is successful.",
+    "@userRegister": {
+        "type": "text",
+        "source_text": "userRegister"
+    },
+    "userRenewToken": "User renew token is successful.",
+    "@userRenewToken": {
+        "type": "text",
+        "source_text": "userRenewToken"
+    },
+    "userForgotPassword": "User forgot password is successful.",
+    "@userForgotPassword": {
+        "type": "text",
+        "sourceText": "userForgotPassword"
+    },
+    "userResetPassword": "Reset forgot password is successful.",
+    "@userResetPassword": {
+        "type": "text",
+        "source_text": "userResetPassword"
+    },
+    "userInviteUser": "User invite is successful.",
+    "@userInviteUser": {
+        "type": "text",
+        "source_text": "userInviteUser"
+    },
+    "userEmailVerificationSent": "User verification email send to user successfully.",
+    "@userEmailVerificationSent": {
+        "type": "text",
+        "source_text": "userEmailVerificationSent"
+    },
+    "userEmailVerificationSuccess": "User email verification successful.",
+    "@userEmailVerificationSuccess": {
+        "type": "text",
+        "source_text": "userEmailVerificationSuccess"
+    },
+    "userAccessrequestSuccess": "User access request email sent to administrator successful.",
+    "@userAccessrequestSuccess": {
+        "type": "text",
+        "source_text": "userAccessrequestSuccess"
+    },
+    "userLogoutSuccess": "User logout successfully.",
+    "@userLogoutSuccess": {
+        "type": "text",
+        "source_text": "userLogoutSuccess"
+    },
+    "userLoginFailed": "Your email and password is invalid",
+    "@userLoginFailed": {
+        "type": "text",
+        "source_text": "userLoginFailed"
+    },
+    "userRenewTokenFailed": "User renew token failed.",
+    "@userRenewTokenFailed": {
+        "type": "text",
+        "source_text": "userRenewTokenFailed"
+    },
+    "userRegisterFailed": "Email is already taken.",
+    "@userRegisterFailed": {
+        "type": "text",
+        "source_text": "userRegisterFailed"
+    },
+    "userForgotPasswordFailed": "User forgot password failed.",
+    "@userForgotPasswordFailed": {
+        "type": "text",
+        "source_text": "userForgotPasswordFailed"
+    },
+    "userChangePasswordFailed": "User change password failed.",
+    "@userChangePasswordFailed": {
+        "type": "text",
+        "source_text": "userChangePasswordFailed"
+    },
+    "userLast4PasswordFailed": "User change password resulted in match with last 4 password error.",
+    "@userLast4PasswordFailed": {
+        "type": "text",
+        "source_text": "userLast4PasswordFailed"
+    },
+    "userInvalidPassword": "User invalid password",
+    "@userInvalidPassword": {
+        "type": "text",
+        "source_text": "userInvalidPassword"
+    },
+    "userInviteUserFailed": "User invite API is failed.",
+    "@userInviteUserFailed": {
+        "type": "text",
+        "source_text": "userInviteUserFailed"
+    },
+    "userEmailVerificationFailed": "User email verification failed.",
+    "@userEmailVerificationFailed": {
+        "type": "text",
+        "source_text": "userEmailVerificationFailed"
+    },
+    "userAccessrequestFailed": "User access request failed.",
+    "@userAccessrequestFailed": {
+        "type": "text",
+        "source_text": "userAccessrequestFailed"
+    },
+    "userLoginFailedInvitation": "User login failed because invitation is yet not verified.",
+    "@userLoginFailedInvitation": {
+        "type": "text",
+        "source_text": "userLoginFailedInvitation"
+    },
+    "userLoginFailedReset": "User login failed due to reset password is pending.",
+    "@userLoginFailedReset": {
+        "type": "text",
+        "source_text": "userLoginFailedReset"
+    },
+    "userLogoutFailed": "User logout failed.",
+    "@userLogoutFailed": {
+        "type": "text",
+        "source_text": "userLogoutFailed"
+    },
+    "userEmailDuplicate": "User email duplicate",
+    "@userEmailDuplicate": {
+        "type": "text",
+        "source_text": "userEmailDuplicate"
+    },
+    "userAlreadyLoginDevice": "User is already login in one device. Please contact you administrator.",
+    "@userAlreadyLoginDevice": {
+        "type": "text",
+        "source_text": "userAlreadyLoginDevice"
+    },
+    "settingNosmtpSetting": "SMTP setting not found.",
+    "@SETTING_NOSMTP_SETTING": {
+        "type": "text",
+        "source_text": "SETTING_NOSMTP_SETTING"
+    },
+    "settingSendemailFaild": "Send email operation failed.",
+    "@settingSendemailFaild": {
+        "type": "text",
+        "source_text": "settingSendemailFaild"
+    },
+    "sendVerificationCodeFailed": "Send Verification Code Failed",
+    "@sendVerificationCodeFailed": {
+        "type": "text",
+        "source_text": "sendVerificationCodeFailed"
+    },
+    "sendVerificationCode": "Send Verification Code successfully",
+    "@sendVerificationCode": {
+        "type": "text",
+        "source_text": "sendVerificationCode"
+    },
+    "cfAlreadyRegister": "User with Govt Id already registered.",
+    "@cfAlreadyRegister": {
+        "type": "text",
+        "source_text": "cfAlreadyRegister"
+    },
+    "continue_key": "Continue",
+    "@continue_key": {
+        "type": "text",
+        "source_text": "continue_key"
+    },
+    "reset_your_password": "Reset your password",
+    "@reset_your_password": {
+        "type": "text",
+        "source_text": "reset_your_password"
+    },
+    "email_is_required": "Email is required",
+    "@email_is_required": {
+        "type": "text",
+        "source_text": "email_is_required"
+    },
+    "please_enter_valid_email": "Please enter valid email",
+    "@please_enter_valid_email": {
+        "type": "text",
+        "source_text": "please_enter_valid_email"
+    },
+    "password_is_required": "Password is required",
+    "@password_is_required": {
+        "type": "text",
+        "source_text": "password_is_required"
+    },
+    "login_button_title": "Login",
+    "@login_button_title": {
+        "type": "text",
+        "source_text": "login_button_title"
+    }
+}
